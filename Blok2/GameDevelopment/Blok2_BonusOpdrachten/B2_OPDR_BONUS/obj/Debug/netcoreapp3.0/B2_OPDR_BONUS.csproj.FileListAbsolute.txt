@@ -1,0 +1,11 @@
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2_BONUS\B2_OPDR_BONUS\bin\Debug\netcoreapp3.0\B2_OPDR_BONUS.exe
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2_BONUS\B2_OPDR_BONUS\bin\Debug\netcoreapp3.0\B2_OPDR_BONUS.deps.json
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2_BONUS\B2_OPDR_BONUS\bin\Debug\netcoreapp3.0\B2_OPDR_BONUS.runtimeconfig.json
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2_BONUS\B2_OPDR_BONUS\bin\Debug\netcoreapp3.0\B2_OPDR_BONUS.runtimeconfig.dev.json
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2_BONUS\B2_OPDR_BONUS\bin\Debug\netcoreapp3.0\B2_OPDR_BONUS.dll
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2_BONUS\B2_OPDR_BONUS\bin\Debug\netcoreapp3.0\B2_OPDR_BONUS.pdb
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2_BONUS\B2_OPDR_BONUS\obj\Debug\netcoreapp3.0\B2_OPDR_BONUS.csprojAssemblyReference.cache
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2_BONUS\B2_OPDR_BONUS\obj\Debug\netcoreapp3.0\B2_OPDR_BONUS.AssemblyInfoInputs.cache
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2_BONUS\B2_OPDR_BONUS\obj\Debug\netcoreapp3.0\B2_OPDR_BONUS.AssemblyInfo.cs
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2_BONUS\B2_OPDR_BONUS\obj\Debug\netcoreapp3.0\B2_OPDR_BONUS.dll
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2_BONUS\B2_OPDR_BONUS\obj\Debug\netcoreapp3.0\B2_OPDR_BONUS.pdb

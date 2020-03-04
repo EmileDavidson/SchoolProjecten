@@ -1,0 +1,11 @@
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Les_Getters_Setters\bin\Debug\netcoreapp3.0\Les_Getters_Setters.exe
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Les_Getters_Setters\bin\Debug\netcoreapp3.0\Les_Getters_Setters.deps.json
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Les_Getters_Setters\bin\Debug\netcoreapp3.0\Les_Getters_Setters.runtimeconfig.json
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Les_Getters_Setters\bin\Debug\netcoreapp3.0\Les_Getters_Setters.runtimeconfig.dev.json
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Les_Getters_Setters\bin\Debug\netcoreapp3.0\Les_Getters_Setters.dll
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Les_Getters_Setters\bin\Debug\netcoreapp3.0\Les_Getters_Setters.pdb
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Les_Getters_Setters\obj\Debug\netcoreapp3.0\Les_Getters_Setters.csprojAssemblyReference.cache
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Les_Getters_Setters\obj\Debug\netcoreapp3.0\Les_Getters_Setters.AssemblyInfoInputs.cache
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Les_Getters_Setters\obj\Debug\netcoreapp3.0\Les_Getters_Setters.AssemblyInfo.cs
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Les_Getters_Setters\obj\Debug\netcoreapp3.0\Les_Getters_Setters.dll
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Les_Getters_Setters\obj\Debug\netcoreapp3.0\Les_Getters_Setters.pdb

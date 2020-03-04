@@ -1,0 +1,11 @@
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Overload_Override\bin\Debug\netcoreapp3.0\Overload_Override.exe
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Overload_Override\bin\Debug\netcoreapp3.0\Overload_Override.deps.json
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Overload_Override\bin\Debug\netcoreapp3.0\Overload_Override.runtimeconfig.json
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Overload_Override\bin\Debug\netcoreapp3.0\Overload_Override.runtimeconfig.dev.json
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Overload_Override\bin\Debug\netcoreapp3.0\Overload_Override.dll
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Overload_Override\bin\Debug\netcoreapp3.0\Overload_Override.pdb
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Overload_Override\obj\Debug\netcoreapp3.0\Overload_Override.csprojAssemblyReference.cache
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Overload_Override\obj\Debug\netcoreapp3.0\Overload_Override.AssemblyInfoInputs.cache
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Overload_Override\obj\Debug\netcoreapp3.0\Overload_Override.AssemblyInfo.cs
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Overload_Override\obj\Debug\netcoreapp3.0\Overload_Override.dll
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\Overload_Override\obj\Debug\netcoreapp3.0\Overload_Override.pdb

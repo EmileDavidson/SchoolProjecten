@@ -1,0 +1,11 @@
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\les_classes\bin\Debug\netcoreapp2.2\les_classes.deps.json
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\les_classes\bin\Debug\netcoreapp2.2\les_classes.runtimeconfig.json
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\les_classes\bin\Debug\netcoreapp2.2\les_classes.runtimeconfig.dev.json
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\les_classes\bin\Debug\netcoreapp2.2\les_classes.dll
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\les_classes\bin\Debug\netcoreapp2.2\les_classes.pdb
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\les_classes\obj\Debug\netcoreapp2.2\les_classes.csprojAssemblyReference.cache
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\les_classes\obj\Debug\netcoreapp2.2\les_classes.csproj.CoreCompileInputs.cache
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\les_classes\obj\Debug\netcoreapp2.2\les_classes.AssemblyInfoInputs.cache
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\les_classes\obj\Debug\netcoreapp2.2\les_classes.AssemblyInfo.cs
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\les_classes\obj\Debug\netcoreapp2.2\les_classes.dll
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\Theorie_lessen\les_classes\obj\Debug\netcoreapp2.2\les_classes.pdb

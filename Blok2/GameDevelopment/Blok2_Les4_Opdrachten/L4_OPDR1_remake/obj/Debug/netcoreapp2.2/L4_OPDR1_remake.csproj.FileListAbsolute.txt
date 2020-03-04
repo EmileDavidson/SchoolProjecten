@@ -1,0 +1,11 @@
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L4\L4_OPDR1_remake\bin\Debug\netcoreapp2.2\L4_OPDR1_remake.deps.json
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L4\L4_OPDR1_remake\bin\Debug\netcoreapp2.2\L4_OPDR1_remake.runtimeconfig.json
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L4\L4_OPDR1_remake\bin\Debug\netcoreapp2.2\L4_OPDR1_remake.runtimeconfig.dev.json
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L4\L4_OPDR1_remake\bin\Debug\netcoreapp2.2\L4_OPDR1_remake.dll
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L4\L4_OPDR1_remake\bin\Debug\netcoreapp2.2\L4_OPDR1_remake.pdb
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L4\L4_OPDR1_remake\obj\Debug\netcoreapp2.2\L4_OPDR1_remake.csprojAssemblyReference.cache
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L4\L4_OPDR1_remake\obj\Debug\netcoreapp2.2\L4_OPDR1_remake.csproj.CoreCompileInputs.cache
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L4\L4_OPDR1_remake\obj\Debug\netcoreapp2.2\L4_OPDR1_remake.AssemblyInfoInputs.cache
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L4\L4_OPDR1_remake\obj\Debug\netcoreapp2.2\L4_OPDR1_remake.AssemblyInfo.cs
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L4\L4_OPDR1_remake\obj\Debug\netcoreapp2.2\L4_OPDR1_remake.dll
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L4\L4_OPDR1_remake\obj\Debug\netcoreapp2.2\L4_OPDR1_remake.pdb

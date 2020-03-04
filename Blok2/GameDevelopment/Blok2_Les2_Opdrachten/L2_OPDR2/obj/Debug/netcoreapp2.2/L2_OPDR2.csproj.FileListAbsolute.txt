@@ -1,0 +1,11 @@
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L2\L2_OPDR2\bin\Debug\netcoreapp2.2\L2_OPDR2.deps.json
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L2\L2_OPDR2\bin\Debug\netcoreapp2.2\L2_OPDR2.runtimeconfig.json
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L2\L2_OPDR2\bin\Debug\netcoreapp2.2\L2_OPDR2.runtimeconfig.dev.json
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L2\L2_OPDR2\bin\Debug\netcoreapp2.2\L2_OPDR2.dll
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L2\L2_OPDR2\bin\Debug\netcoreapp2.2\L2_OPDR2.pdb
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L2\L2_OPDR2\obj\Debug\netcoreapp2.2\L2_OPDR2.csprojAssemblyReference.cache
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L2\L2_OPDR2\obj\Debug\netcoreapp2.2\L2_OPDR2.csproj.CoreCompileInputs.cache
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L2\L2_OPDR2\obj\Debug\netcoreapp2.2\L2_OPDR2.AssemblyInfoInputs.cache
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L2\L2_OPDR2\obj\Debug\netcoreapp2.2\L2_OPDR2.AssemblyInfo.cs
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L2\L2_OPDR2\obj\Debug\netcoreapp2.2\L2_OPDR2.dll
+C:\Users\Emile\OneDrive\Bureaublad\schoolmap\bewijzenmap_B2\GameDev\B2L2\L2_OPDR2\obj\Debug\netcoreapp2.2\L2_OPDR2.pdb

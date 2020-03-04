@@ -1,0 +1,11 @@
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2L5\L5_OPDR2\bin\Debug\netcoreapp3.0\L5_OPDR2.exe
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2L5\L5_OPDR2\bin\Debug\netcoreapp3.0\L5_OPDR2.deps.json
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2L5\L5_OPDR2\bin\Debug\netcoreapp3.0\L5_OPDR2.runtimeconfig.json
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2L5\L5_OPDR2\bin\Debug\netcoreapp3.0\L5_OPDR2.runtimeconfig.dev.json
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2L5\L5_OPDR2\bin\Debug\netcoreapp3.0\L5_OPDR2.dll
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2L5\L5_OPDR2\bin\Debug\netcoreapp3.0\L5_OPDR2.pdb
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2L5\L5_OPDR2\obj\Debug\netcoreapp3.0\L5_OPDR2.csprojAssemblyReference.cache
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2L5\L5_OPDR2\obj\Debug\netcoreapp3.0\L5_OPDR2.AssemblyInfoInputs.cache
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2L5\L5_OPDR2\obj\Debug\netcoreapp3.0\L5_OPDR2.AssemblyInfo.cs
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2L5\L5_OPDR2\obj\Debug\netcoreapp3.0\L5_OPDR2.dll
+D:\SchoolWerk\schoolmap\bewijzenmap_B2\GameDev\B2L5\L5_OPDR2\obj\Debug\netcoreapp3.0\L5_OPDR2.pdb
