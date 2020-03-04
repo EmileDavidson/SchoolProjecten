@@ -1,0 +1,52 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: "montserrat";
+  min-height: 100vh;
+  background-image: linear-gradient(120deg,#E6E6FA,#D8BFD8,#DDA0DD,#EE82EE,#DA70D6,#FF00FF,#BA55D3,#9370DB,#8A2BE2,#9400D3,#9932CC,#8B008B,#800080,#4B0082);
+  background-size: 400%;
+  animation: bganimation 20s infinite;
+}
+@keyframes bganimation {
+  0%{
+    background-position: 0% 50%;
+  }
+  50%{
+    background-position: 100% 50%;
+  }
+  100%{
+    background-position: 0% 50%;
+  }
+}
+.overlay {
+  width: 80%;
+  height: 100%;
+  margin: 2% auto;
+  display: block;
+  padding: 2%;
+  opacity: 0.8;
+  background-color: #eeeeee;
+  border-style: solid;
+  border-color: black;
+  border-radius: 40px;
+}
+thead tr td{
+  background-color: #c9c9c7;
+}
+table{
+  margin: 0% auto;
+}
+table th{
+    font-size: 25px;
+    border-color: purple;
+    padding: 0px 25px;
+    background: white;
+    border-style: solid;
+}
+table td{
+  font-size: 20px;
+  border-color: purple;
+  padding: 7px 20px;
+  background: white;
+  border-style: solid;
+}

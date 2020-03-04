@@ -1,0 +1,52 @@
+body {
+  background-color: purple;
+  margin: 0;
+  padding: 40px;
+}
+
+table {
+  margin: auto auto;
+  border-style: solid;
+  border-color: black;
+  background: white;
+  text-align: center;
+}
+
+table th, table td {
+  padding: 5px;
+  background-color: white;
+  font-size: 25px;
+
+}
+#image{
+  background: white;
+  position: absolute;
+  width: 320px;
+  height: 320px;
+  opacity: 0;
+}
+#image1{
+  background: white;
+  position: relative;
+  width: 320px;
+  height: 320px;
+  opacity: 0;
+}
+.faidinAnimation{
+-webkit-animation-name: animatio; /* Safari 4.0 - 8.0 */
+-webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+animation-name: animatio;
+animation-duration: 4s;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes animatio {
+from {opacity: 0;}
+to {opacity: 1;}
+}
+
+/* Standard syntax */
+@keyframes animatio {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}

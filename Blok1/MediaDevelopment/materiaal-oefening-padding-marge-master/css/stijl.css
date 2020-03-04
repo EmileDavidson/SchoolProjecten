@@ -1,0 +1,130 @@
+body {
+  font-family: sans-serif;
+  background-color: dodgerblue;
+  margin: 0;
+  padding: 0;
+}
+.wrapper {
+  background-color: rgba(255, 255, 255, .7);
+  background-image: url('../img/transp.png'), url('../img/grid.png');
+  overflow: auto;
+  width: 1240px;
+  margin: 0 auto;
+  /* Als je een element met een beperkte breedte zoals dit div-element met de class wrapper
+  wil centreren dan geef je hem en marge 0 auto: vertikaal niets maar horizontaal auto.
+  Dus de linkermarge is auto en de rechtermarge ook. Het element staat dan in het midden.
+  Controleer maar door het browservenster van breedte te laten veranderen.
+  */
+}
+header {
+  background-color: rgba(0,0,0,.7);
+  color: #fff;
+}
+header .tagline, header h1{
+  padding: 5px 60px;
+}
+h1 {
+  margin-top: 0;
+  padding-top: 20px;
+}
+
+.auteur {
+  float: right;
+  text-align: right;
+  padding: 0px 40px;
+}
+header a {
+  color: #fff;
+}
+header a:hover {
+  text-decoration: none;
+  color: #aaa;
+}
+main {
+  padding: 20px;
+}
+section {
+  background-color: rgba(30, 200, 240, 0.5);
+  width: 360px;
+  /* door de breedte in te perken zouden er wel 3 sections in het main-element
+  naast elkaar passen */
+  float: left;
+  /* float: hierdoor gaan de elementen naar links en als er nog ruimte aan de
+  rechterkant over is, vloeit de inhoud, die hiernaar komt er in.
+  Kijk eventurrl wat er gebeurt als je float:left weghaald!! */
+  border-radius: 15px;
+  margin: 20px;
+  box-sizing: border-box;
+}
+section h3{
+  background-color: #11AFAE;
+  padding: 20px;
+}
+section p{
+  padding: 20px;
+}
+.weinig {
+  width: 260px;
+   /* dit is voor de sections met weinig inhoud: die kunnen smaller.
+   Ze hebben in de amrk-up een class weinig meegekregen.
+   Kijk goed naar de uitwerking en geef ze een breedte,
+   zodat ze met 4 secties naast elkaar kunnen */
+}
+#tip1{
+  padding-bottom: 80px;
+}
+#tip2{
+  padding-bottom: 40px;
+}
+#tip4{
+  padding-bottom: 20px;
+}
+#tip5{
+  padding-bottom: 62.5px;
+}
+#tip7{
+  padding-bottom: 125px;
+}
+#tip9{
+  padding-bottom: 20px;
+}
+#tip10{
+  padding-bottom: 20px;
+}
+#tip8{
+  padding-bottom: 100px;
+}
+h3 {
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 20px;
+  line-height: 21px;
+}
+
+p {
+  margin: 0;
+  font-size: 16px;
+  line-height: 21px;
+}
+
+footer {
+  clear: left;
+  /*als dit achterwege blijft vloeit de footer ook nog langs de
+  floatende elementen.
+  Deze 'hack' zorgte er dus voor dat de footer 'onder' de sectins
+  blijft */
+  background-color: rgba(0,0,0,.7);
+  color: white;
+  padding: 20px 60px;
+}
+footer a{
+ color: white;
+}
+
+#validatie img {
+    height: 1em;
+    width: auto;
+    border: 0;
+    margin: 0 .3em;
+}

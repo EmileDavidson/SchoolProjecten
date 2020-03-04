@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8">
+    <title>Naast elkaar</title>
+    <meta name="author" content="Theo den Blanken">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/stijl.css">
+    <style>
+    @import url('https://fonts.googleapis.com/css?family=Audiowide&display=swap');
+    /*  probeer hier de nav en de sections te stijlen met display: inline;  */
+    nav li{
+      display: inline;
+    }
+    nav a{
+      display: inline-block;
+      padding: 0.5em 2.5em;
+    }
+    section{
+      display: inline;
+    }
+
+   </style>
+  </head>
+
+  <body lang="nl">
+    <nav>
+      <ul>
+        <li>
+          <a href="index.html">block</a>
+        </li>
+        <li>
+          <a href="inlineBlock.html">inline block</a>
+        </li>
+        <li>
+          <a href="inline.html" class="active">inline</a>
+        </li>
+        <li>
+          <a href="grid.html">CSS Grid Layout</a>
+        </li>
+      </ul>
+    </nav>
+    <header>
+      <h1>Inline</h1>
+      <p>De navigatie en de sections zijn op deze pagina naast elkaar geplaatst met display-type inline.</p>
+    </header>
+    <main>
+      <section>
+        <h3>Block</h3>
+        <p>Veel elementen hebben standaard een display-type block. Denk aan p, h3, div, main en nav.
+          <br>
+          Ze nemen dan de hele beschikbare breedte in ook als ze weinig inhoud hebben.
+          <br>
+          Om ze naast elkaar te krijgen moet je dus zowel hun breedte beperken, maar hun ook laten floaten.
+          <br>
+          Dit floaten kan best ongewenste gevolgen hebben, maar block-elementen kun je breedte, hoogte en paddings meegeven.
+
+        </p>
+      </section>
+      <section>
+        <h3>Inline block</h3>
+        <p>
+          Afbeeldingen hebben standaard een display type inline-block. Ze staan met andere elementen op dezelfde regel: de onderkanten staan dan gelijk. Inline-block elementen hebben wel een instelbare breedte, hoogte en padding.
+          <br>
+          Bedenk wel dat elke spatie tussen dit soort elementen ook een spatie in de layout tot gevolg heeft.
+        </p>
+      </section>
+
+      <section class="active">
+        <h3>Inline</h3>
+        <p>Inline elementen staan naast elkaar op dezelfde regel. Als ze niet te groot zijn staan ze als vanzelf naast elkaar.
+          <br>
+          Het is zinloos om ze breedte, hoogte of padding te geven. Regels kunnen wel verder van elkaar komen door de line-heigt in te stellen op een hogere waarde.
+          <br>Regels breken op afbreekstreepjes en spaties af naar de volgende regel.
+        </p>
+        <p>Typische inline-elementen zijn span,
+          <a href="#">a</a>,
+          <em>em</em>
+          en
+          <strong>strong</strong>.</p>
+      </section>
+
+      <section>
+        <h3>Display types</h3>
+        <p>Block, inline en inline-block zijn de meest gebruikte display-types.
+          <br>
+          Display-types zijn manieren waarmee de browser omgaat om elementen te plaatsen in de viewport.
+          <br>
+          Standaard wordt de viewport gevuld tot aan de rechterkant. Daarna wordt de ruimte daaronder gebruikt. Als er ruimte gevuld is komt er een scrollbalk en komen de elementen onder de viewport.
+        </p>
+        <p>Het mooie is dat je met CSS het display-type naar je eigen voorkeur kunt omzetten. Een element dat standaard een display-type inline heeft, kun je omzetten naar block met
+          <code>display: block;</code>.
+          <br>
+          Het display-type
+          <code>none</code>
+          kan ook wel eens handig zijn om iets te verbergen.</p>
+      </section>
+    </main>
+    <footer class="validatie">
+
+      <a href="http://validator.w3.org/check?uri=referer" target="_blank">
+        <img src="https://blanken5.home.xs4all.nl/afb/valid-html5-blue.png" alt="Valide HTML5"></a>
+      <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank">
+        <img src="http://jigsaw.w3.org/css-validator/images/vcss-blue.gif" alt="Valide CSS">
+      </a>
+
+    </footer>
+  </body>
+</html>

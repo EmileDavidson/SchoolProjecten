@@ -1,0 +1,69 @@
+.Header {
+  background-color: #17223b;
+    padding-bottom: 1px;
+}
+.Header-Text {
+  color: white;
+  font-family: Extra-Bold;
+  text-align: center;
+  font-size: 500%;
+  font-style: oblique;
+}
+h2 {
+  font-family: Extra-Bold;
+  font-size: 300%;
+}
+  h3 {
+    font-family: Extra-Bold;
+    font-size: 200%;
+}
+.Header-Img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 40px;
+  width: 400px;
+}
+.Jaren80 {
+  background-color: #263859;
+  text-align: center;
+  color:white;
+  height: 200px;
+}
+.icon {
+  display: block;
+  color: black;
+}
+.buttons {
+  display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px 0;
+}
+.buttons a{
+  text-align:center;
+  color: black;
+}
+.buttons a:hover{
+  color: #443AD4;
+  text-decoration: none;
+}
+.buttons a:hover .icon{
+  color: #443AD4;
+  text-decoration: none;
+}
+.footer {
+  background-color: #17223b;
+    padding-bottom: 1px;
+    text-align: center;
+    color: #3E4991;
+  }
+.buttons a span{
+font-size: 40px;
+}
+.store.icon{
+  display: inline-block;
+  height: 190px;
+  width: 160px;
+  background-image: url(../Images/store.svg);
+}

@@ -1,0 +1,41 @@
+
+body {
+   font-family: sans-serif;
+   font-family: 'Audiowide', cursive;
+   margin: 0;
+   padding: 0;
+}
+
+nav {
+   background: #333;
+}
+nav ul {
+   list-style-type: none;
+   padding: 0;
+   margin: 0;
+}
+nav a {
+   color: #ccc;
+   text-decoration: none;
+   background-color: #000;
+   font-weight: 700;
+   border-bottom: 5px solid transparent;
+}
+nav a:hover {
+   color: #000;
+   background: #ccc;
+}
+nav .active {
+   border-bottom: 5px solid red;
+}
+
+section.active {
+   background: aliceblue;
+}
+footer {
+   background: #333;
+}
+
+header, main, footer {
+   padding: 0.5rem 2.5rem;
+}
