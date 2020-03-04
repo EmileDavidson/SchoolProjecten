@@ -1,0 +1,19 @@
+$teller = 2;
+switch($teller) {
+case 0:
+echo "in dit geval heb je 0 opties";
+
+break;
+
+
+case 1:
+echo "in dit geval heb je 1 opties";
+
+break;
+
+
+case 2:
+echo "in dit geval heb je 2 opties";
+
+break;
+}

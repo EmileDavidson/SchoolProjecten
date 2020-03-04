@@ -1,0 +1,23 @@
+Shuffle
+
+<?php
+
+$namen = array("Emile", "Marijn", "Reynando");
+
+shuffle($namen);
+
+echo $namen[2];
+
+?>
+
+
+
+Count
+
+<?php
+
+$namen = array("Emile", "Marijn", "Reynando");
+
+echo count($namen);
+
+?>

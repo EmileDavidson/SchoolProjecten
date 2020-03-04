@@ -1,0 +1,83 @@
+Blok 1 opdracht 3: 
+Emile Davidson
+
+
+antwoord 1: 32 stippen
+
+antwoord 2: 32 stippen (met die extra kaart naast die 16 wordt het verdubbeld en dus 64)
+
+antwoord 3: 11
+
+antwoord 4: 110 (4+2=6)
+
+antwoord 5: 10101 (16+0+4+0+1=21)
+
+antwoord 6:
+
+0 = 00000
+4 = 00100
+7 = 00111 
+11 = 01011
+12 = 01100
+13 = 01101
+15 = 01111
+19 = 10011
+25 = 11001
+29 = 11101
+
+opdracht 7: 10
+opdracht 8: 21
+opdracht 9: 32
+
+opdracht 10:
+h = 01000
+o = 01111
+n = 01110
+d = 00100
+
+opdracht 11:
+s = 01001
+c = 00011
+h = 01000
+o = 01111 
+o = 01111
+l = 01100
+
+opdracht 12:
+10100 = t
+00001 = a
+00001 = a
+01100 = l
+
+antwoord; taal
+
+opdracht 13:
+
+a = 00001
+a = 00001
+p = 01000
+
+opdracht 14:
+
+h = 01000
+o = 01111
+n = 01110
+d = 00100
+
+opdracht 15: 31
+
+opdracht 16: er zijn 26 letters 26*2=52 er zijn dus 52 verschillende combies nodig om alle letters te doen. 
+opdracht 17: 6 bits (dit is 64 en dus meer dan 52)
+opdracht 18: de hoofdletter "A" begint vanaf 65 dit is 1000001 
+
+opdracht 19: 46 verschillende knoppen en 66 verschillende dingen om te plaatsen.
+
+opdracht 20: 10 toesten 
+
+opdracht 21: 1000000 7 bits is genoeg. (7 bits = 128 als max nmr.)
+
+opdracht 22: 6 bitjes (1 2 4 8 16) er zijn 24 letters 
+
+opdracht 23: prinses
+
+opdracht 24: ja door middel van: 1000000 en hier de "kleine" letters in te zetten aangezien hoofdletter kleine letter is + 64

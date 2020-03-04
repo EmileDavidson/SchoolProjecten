@@ -1,0 +1,24 @@
+<?php
+
+// your code goes here
+
+$naam = "Emile Davidson ";
+$land = "Nederland ";
+
+$geld1 = 18;
+$geld2 = 90;
+
+$namen = array("Emile", "Marijn", "Reynando");
+
+
+
+echo "hello world ";
+
+echo $land;
+
+echo $naam;
+
+echo "jou totaal geld = ", $geld1 + $geld2, " euro ";
+echo $namen[1]
+?>
+

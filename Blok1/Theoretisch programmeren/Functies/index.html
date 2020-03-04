@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="nl" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <link rel="stylesheet" href="stijl.css">
+</head>
+
+<body>
+
+  <ul>
+    <div class="buttons">
+      <a id="button1">spaghetti met ham en kaas</a><br>
+      <a id="button2">Macaroni met ham en kaas</a><br>
+      <a id="button3">Tagliatelli met ham en kaas</a><br>
+      <hr>
+      <a id="button4">Spaghetti met spinazie en room</a><br>
+      <a id="button5">Macaroni met spinazie en room</a><br>
+      <a id="button6">Tagliatelli met spinazie en room</a><br>
+      <hr>
+      <a id="button7">Spaghetti met gehakt-tomatensaus en kaas</a><br>
+      <a id="button8">Macaroni met gehakt-tomatensaus en kaas</a><br>
+      <a id="button9">Tagliatelli met gehakt-tomatensaus en kaas</a><br>
+      <hr>
+      <a id="button10">Spaghetti met spekjes, spinazie en room</a><br>
+      <a id="button11">Macaroni met spekjes, spinazie en room</a><br>
+      <a id="button12">Tagliatelli met spekjes, spinazie en room</a></br>
+      <hr>
+      <a id="button13">Spaghetti met courgette en tomatensaus</a><br>
+      <a id="button14">Macaroni met courgette en tomatensaus</a></br>
+      <a id="button15">Tagliatelli met courgette en tomatensaus</a><br>
+      <br>
+
+    </div>
+  </ul>
+  <div class="table">
+    <table>
+      <!-- Tabel Kop -->
+      <thead>
+        <tr>
+          <th colspan="2"><span id="gerecht">gerecht</span></th>
+        </tr>
+      </thead>
+      <!-- Cluster 1 -->
+      <tbody>
+        <tr>
+          <td>stap: 1</td>
+          <td class="stap"><span id="stap1">(stap 1)</span></td>
+        </tr>
+        <tr>
+          <td>stap: 2</td>
+          <td class="stap"><span id="stap2">(stap 2)</span></td>
+        </tr>
+        <tr>
+          <td>stap: 3</td>
+          <td class="stap"><span id="stap3">(stap 3)</span></td>
+        </tr>
+        <tr>
+          <td>stap: 4</td>
+          <td class="stap"><span id="stap4">(stap 4)</span></td>
+        </tr>
+        <tr>
+          <td>stap: 5</td>
+          <td class="stap"><span id="stap5">(stap 5)</span></td>
+        </tr>
+        <tr>
+          <td>stap: 6</td>
+          <td class="stap"><span id="stap6">(stap 6)</span></td>
+        </tr>
+        <tr>
+          <td>stap: 7</td>
+          <td class="stap"><span id="stap7">(stap 7)</span></td>
+        </tr>
+        <tr>
+          <th colspan="2"><span id="gerecht2">gerecht</span></th>
+        </tr>
+        <tr>
+          <td>stap: 8</td>
+          <td class="stap"><span id="stap8">(stap 8)</span></td>
+        </tr>
+        <tr>
+          <td>stap: 9</td>
+          <td class="stap"><span id="stap9">(stap 9)</span></td>
+        </tr>
+        <tr>
+          <td>stap: 10</td>
+          <td class="stap"><span id="stap10">(stap 10)</span></td>
+        </tr>
+        <tr>
+          <td>stap: 11</td>
+          <td class="stap"><span id="stap11">(stap 11)</span></td>
+        </tr>
+        <tr>
+          <td>stap: 12</td>
+          <td class="stap"><span id="stap12">(stap 12)</span></td>
+        </tr>
+        <tr>
+          <td>stap: 13</td>
+          <td class="stap"><span id="stap13">(stap 13)</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="uitleg">
+    <h1>hoe werkt een functie</h1>
+    een functie is een stuk code <br>
+    wat je kan aanroepen door het gebruik maken<br>
+    van een klein regeltje (  functienaam();  )<br>
+    dit zorgt ervoor dat je niet veel hoeft te copy pasten<br>
+    maar snel een stukje code kan hergebruiken<br>
+    dit maakt je code compacter en overzichterlijker
+    <h2>wat gebruik ik als functie</h2>
+    <p>
+      function spaghetti() {<BR>
+      gerecht.innerHTML = "Spaghetti";<BR>
+      stap1.innerHTML = "Dit is de eerste stap voor het maken van spaghetti";<BR>
+      stap2.innerHTML = "Dit is de tweede stap voor het maken van spaghetti";<BR>
+      stap3.innerHTML = "Dit is de derde stap voor het maken van spaghetti";<BR>
+      stap4.innerHTML = "Dit is de vierde stap voor het maken van spaghetti";<BR>
+      stap5.innerHTML = "Dit is de vijfde stap voor het maken van spaghetti";<BR>
+      stap6.innerHTML = "Dit is de zesde stap voor het maken van spaghetti";<BR>
+      stap7.innerHTML = "Dit is de sevende stap voor het maken van spaghetti";<BR>
+      }<br>
+<br>
+en nu laad ik dit door middel van <br><br>
+let button1 = document.getElementById('button1');<br>
+button1.addEventListener('click', ()=>{<br>
+spaghetti();<br>
+})
+<br><br>
+als u de files wilt zien doe dan<br> F12 -> SOURCES -> en dan kan u kiezen welke code u wilt bekijken.
+    </p>
+  </div>
+  <script alt="javascript" src="javascript.js"></script>
+</body>
+
+</html>

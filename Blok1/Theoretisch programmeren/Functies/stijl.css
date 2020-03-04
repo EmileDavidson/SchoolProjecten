@@ -1,0 +1,65 @@
+body{
+  min-height: 100vh;
+  background:  #01192D;
+}
+ul{
+  list-style: none;
+  padding: 0px 5px;
+  display: block;
+}
+li{
+  padding: 5px;
+}
+
+table{
+  display: inline-block;
+  color: white;
+  position: absolute;
+  left: 22%;
+  top: 2%;
+  transform: translate(-22% -2%);
+  border-color: red;
+  border-style: solid;
+  text-align: left;
+  background-color: gray;
+  min-height: 90.5vh;
+}
+table th, table td{
+  border-color: darkgray;
+  border-style: solid;
+}
+table th{
+  font-size: 25px;
+  color: white;;
+}
+.stap{
+  width: 500px;
+}
+.buttons{
+  color: red;
+  padding: 2px;
+  border: solid;
+  display: inline-block;
+  background-color: gray;
+  min-height: 90vh;
+  position: absolute;
+  left: 2%;
+  top: 2%;
+  transform: translate(-2% -2%);
+}
+.buttons a{
+  color: white;
+}
+.uitleg{
+  color: white;
+  display: inline-block;
+  background-color: gray;
+  border: solid;
+  border-color: red;
+  padding: 3px;
+  position: absolute;
+  left: 62%;
+  top: 2%;
+  transform: translate(-62% -2%);
+  min-height: 90vh;
+}
