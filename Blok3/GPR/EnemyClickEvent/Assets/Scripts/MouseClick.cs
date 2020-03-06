@@ -15,6 +15,8 @@ public class MouseClick : MonoBehaviour
         {
             if (Physics.Raycast(ray, out hit))
             {
+                Vector3 camPos = camera.transform.position;
+                //controlleer of de geraakte object iets heeft waarmee je wat kan doen
                 if (hit.transform.GetComponent<PlayerHealth>())
                 {
                     hit.transform.GetComponent<PlayerHealth>().OnHit(10);

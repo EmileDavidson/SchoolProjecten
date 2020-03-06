@@ -26,7 +26,7 @@ public class TheStackver2 : MonoBehaviour
     private Vector2 stackBounds = new Vector2(BOUNDS_SIZE, BOUNDS_SIZE);
 
     private int stackIndex;
-    private int scoreCount = 0;
+    private int scoreCount = 00;
     private int combo = 0;
 
     private float tileTransition = 0.0f;
