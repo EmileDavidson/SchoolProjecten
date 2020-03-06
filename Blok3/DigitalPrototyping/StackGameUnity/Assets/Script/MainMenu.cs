@@ -14,6 +14,7 @@ public class MainMenu : MonoBehaviour
 
     public void ToGame()
     {
+        Debug.Log("ja");
         SceneManager.LoadScene("ver2");
     }
 
