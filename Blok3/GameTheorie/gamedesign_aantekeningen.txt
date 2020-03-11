@@ -1,0 +1,164 @@
+- schrijf een concept
+- gebruik geen genres 
+- kies een documentatievorm (GDD / CD / OP)
+- omschrijf je core gameplay
+- omschrijf je game doel
+- omschrijf je game mechanics 
+- omschrijf de game controlles
+- omschrijf de win & lose condition
+- paper prototype
+- digital prototype
+
+komen tot een goed concept: 
+	een goede game designer weet verschillende manieren om tot een goed concept te komen van elkaar te onderscheiden
+	en wet wanneer hij deze in moet zetten 
+	
+	- narratief / thema
+		voordelen:
+			- je weet welke character je nodig hebt 
+			- je weet hoe de werled moet opgebouwd worden
+			- fijn voor concept artist om vanuit te werken 
+			- iedereen in het team kan er een gevoel bij hebben
+		nadelen:
+			- moeilijk om leuke gameplay te koppelen aan het verhaal
+			- themas kunnen ook restrictief werken voor innovatie
+			- moeilijker om iteratief mee te werken
+	- artistiek
+		voordelen:
+			- makkelijker visueel inoovatief te worden
+			- art kan gameplay & verhaal inspireren
+			- goed voor de verkoopbaarheid van je game
+			- visueel ingesteld teamleden hebben meteen een vibe
+		nadelen:
+			- gameplay kan in dienst komen te stan van art
+			- je verliest mogelijkheid om te experimenteren meerdere artstyles
+	- technische innovatie
+		voordelen:
+			- goed voor de innovatieve experience
+			- kan heel inspirerend voor je game design werken
+			- programmeurs vaak heel enthousiast
+			- vaak hoge speelbaarheid (playability) factor
+		nadelen:
+			- nieuw terrein heeft vaak ook meer risico op bugs
+			- art kan lijden van de nieuwe tech (denk aan eerste ineraties van no man's sky)
+			- risico op hele leuke simmulatie maar geen game
+	- gameplay innovatie
+		voordelen:
+			- goed voor de innovatieve experience
+			- kern van de game is nieuw voor heel veel spelers
+			- leuk proces binnen game development
+			- als het werkt dan maar kans op $$$
+		nadelen:
+			- kan gimmick worden als er te weinig mee gedaan word
+			- lastig van tevoren inschatten hoe het wordt bevonden
+			- vaak heel iteratief gevonden er bestaat niet zoiets
+			- kan lastig zijn voor spelers om te leren (veel tutorial)
+			- risico dat een ander bedrijf het nog beter gaat maken
+
+	- social
+		voordelen:
+			- je bouwt automatisch een community op
+			- interacite met andere mensen is de kern van je game
+			- word of mouth over je gaam gaat automatisch
+			- verdien model interessant
+		nadelen:
+			- je zult ook veel moeten gaan moderaten (toxic comm)
+			- niet interessant voor hele jonge doelgroep
+			- risico op verdeling casuel en hardcore public, lastig te hanteren
+	- simulatie
+		voordelen:
+			- hoge immersieve waarde
+			- geeft een gevoel van authenticiteit
+			- gameplay vaak complex, maar hoge speelbaarheid
+		nadelen:
+			- gameplay ondergeschikt aan realisme kan "niet leuk" zijn
+			- complexiteit zorgt voor een niche-markt
+	- player expression
+		voordelen:
+			- gratis goede marketing voor je game
+			- automatische nieuwe context en dus replayability
+			- hoge nadruk op speelbaarheid en expressie
+		nadelen:
+			- spelers kunnen ook nare idngen maken die je niet wilt
+			- kan ten koste gaan van een narratief en / of thema
+			- harde rulesets kunnen een negatieve impact hebben 
+	- hardeware innovatie/controls 
+		voordelen:
+			-verkoopbaarheid hoog want is "tastbaar"
+			- hoog innovatiegehalte
+		nadelen:
+			- wanneer het een gimmick is, valt het snel door de mand
+			- vakk duur om te ontwikkelen / te verspreiden
+			- usability drempel hoog, veel tutorial nodig
+
+don't use genres
+	- werken restrictief
+	- kloppen niet (zijn afgeleid van film / boek)
+	- zeggen niks inhoudelijk over gameplay
+	- zeggen ook niet perse wat over art
+	- communiceren slecht wat je eigenlijk bedoelt	
+
+	instead learn to define games yourself (example:)
+hoog / laag gameplay (ludus) emphasis
+hoog / laag playability
+hoog / laag competiviteit
+hoog / laag difficulty
+
+game design documententatie 
+	het game design documentaite
+		volledige documentatie van je game
+		look & feel
+		game narrative
+		genre / thema
+		conceptart
+		game flow
+		core gameplay
+		game doel
+		game puzzles
+		game mechanics inclusief puntenverdeling
+		alle level design
+		game opties
+		character
+		enemies
+		controls
+		doelgroep
+		marketing plan
+		project scope (hoeveelheid content)
+		achievements
+	game conecpt document 
+		omvat de belangerijkste overview van je game
+		veel visueleer dan een gdd
+		vaak een voorloper op een uitgebreide ggd
+		game concept 
+		genre / theme
+
+		(en nog meer maar powerpoint ging door) 
+
+	one page game design
+		legt in 1 pagina je game uit
+		iconische heldere weergave
+		basic gameplay
+		core game mechanics
+		game doel
+		win / lose conditions
+		controls
+		level design voorbeeld
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

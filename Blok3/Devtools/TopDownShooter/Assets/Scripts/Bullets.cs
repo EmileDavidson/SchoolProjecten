@@ -8,6 +8,8 @@ public class Bullets : MonoBehaviour
     private Vector3 direction;
     private Vector3 oldVelocity;
     public int BounchCount = 0;
+    public int maxBounchCount = 10;
+    public float demage = 10;
 
     private void Start()
     {
@@ -18,7 +20,7 @@ public class Bullets : MonoBehaviour
 
     private void Update()
     {
-        if (BounchCount >= 10)
+        if (BounchCount >= maxBounchCount)
         {
             Destroy(this.gameObject);
         }
@@ -30,12 +32,19 @@ public class Bullets : MonoBehaviour
         direction = aDir;
     }
 
+    public void setup(int maxb, float firespeedvalue, float d)
+    {
+        maxBounchCount = maxb;
+        fireSpeed = firespeedvalue;
+        demage = d;
+    }
+
     public void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.tag.Equals("Enemy"))
         {
             Destroy(this.gameObject);
-            other.GetComponent<EnemyHealth>().TakeDemage(10);
+            other.GetComponent<EnemyHealth>().TakeDemage(demage);
         }
     }
 
@@ -45,7 +54,7 @@ public class Bullets : MonoBehaviour
         if (collision.gameObject.tag.Equals("Player"))
         {
             Destroy(this.gameObject);
-            collision.transform.GetComponent<PlayerHealth>().TakeDemage(10);
+            collision.transform.GetComponent<PlayerHealth>().TakeDemage(demage);
         }
     }
 }
