@@ -1,0 +1,35 @@
+https://gyazo.com/6abc7589d5b9c078f0483f22f1a990a5
+
+https://gyazo.com/4be77228afa1341bd5293e5a7cce39fa
+
+Comeptitie: 
+	Highscores
+	Multiplayer PVP 
+	Cosmetics & Gear (Multiplayer only) 
+	Achievements
+	Timesets
+	Speerrunning mogelijkheden
+	(AGON) - (E) Sports mogelijkheden 
+Flow
+	Dynamic adjustment system
+	Rubber banding
+	AI adjustments System 
+Content
+	Quest / Missions
+	Story & Cinematics
+	Explorable Environments
+	Unlockables
+	Player generated content
+	Procedurally generated content
+Playablilty (Paidia)
+	Speelbaarheid
+	Physics
+	Roleplaying
+	Player investments (Levelling & EXP)
+	Loot & In-Game Money
+	Character creater	
+	Player housing
+	Achievements
+	Unlocks
+	Ranks (ranked play)
+	in-game friends
