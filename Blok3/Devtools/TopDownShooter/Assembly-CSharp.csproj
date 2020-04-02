@@ -75,6 +75,10 @@
     <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Player\Shoot.cs" />
     <Compile Include="Assets\Scripts\Player\ShootRaycast.cs" />
+    <Compile Include="Assets\Scripts\Player\Weapons\Pistol.cs" />
+    <Compile Include="Assets\Scripts\Player\Weapons\Sniper.cs" />
+    <Compile Include="Assets\Scripts\Player\Weapons\Weapon.cs" />
+    <Compile Include="Assets\Scripts\Player\Weapons\WeaponController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />

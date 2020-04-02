@@ -46,6 +46,11 @@ public class Bullets : MonoBehaviour
             Destroy(this.gameObject);
             other.GetComponent<EnemyHealth>().TakeDemage(demage);
         }
+        if (other.gameObject.tag.Equals("Player"))
+        {
+            Destroy(this.gameObject);
+            other.transform.GetComponent<PlayerHealth>().TakeDemage(demage);
+        }
     }
 
     public void OnCollisionEnter(Collision collision)
@@ -55,6 +60,11 @@ public class Bullets : MonoBehaviour
         {
             Destroy(this.gameObject);
             collision.transform.GetComponent<PlayerHealth>().TakeDemage(demage);
+        }
+        if (collision.gameObject.tag.Equals("Enemy"))
+        {
+            Destroy(this.gameObject);
+            collision.gameObject.GetComponent<EnemyHealth>().TakeDemage(demage);
         }
     }
 }
