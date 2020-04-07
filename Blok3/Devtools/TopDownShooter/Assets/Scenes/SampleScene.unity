@@ -2072,7 +2072,8 @@ MonoBehaviour:
   currentTime: 0
   canShoot: 1
   demage: 50
-  hitParticle: {fileID: 0}
+  hitParticle: {fileID: 9119409245078110167, guid: 6dde5d4b2b7042f41864b66f6ee6411b,
+    type: 3}
   entityHitParticle: {fileID: 4307987259828999898, guid: 492519e0706b34c448be61c58eea7c81,
     type: 3}
 --- !u!114 &1861967406

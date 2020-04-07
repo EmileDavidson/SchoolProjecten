@@ -31,10 +31,12 @@ public class Weapon : MonoBehaviour
 
     public virtual void triggerDown()
     {
+        shoot();
     }
 
     public virtual void triggerHold()
     {
+        shoot();
     }
 
     public virtual void shoot()

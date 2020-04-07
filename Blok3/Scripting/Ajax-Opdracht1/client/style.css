@@ -1,0 +1,7 @@
+body{
+  border-radius: 20px;
+  border-color: red;
+  border-style: solid;
+display: inline-block;
+padding: 20px;
+}

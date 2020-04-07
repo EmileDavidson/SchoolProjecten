@@ -6,16 +6,6 @@ public class Sniper : Weapon
 {
     public RaycastHit hit;
 
-    public override void triggerDown()
-    {
-        shoot();
-    }
-
-    public override void triggerHold()
-    {
-        shoot();
-    }
-
     public override void shoot()
     {
         if (canShoot == false) { return; }
@@ -29,6 +19,12 @@ public class Sniper : Weapon
             {
                 hit.collider.GetComponent<EnemyHealth>().TakeDemage(10);
                 ParticleSystem particleOBJ = Instantiate(entityHitParticle);
+                particleOBJ.transform.position = hit.point;
+                Destroy(particleOBJ, 2);
+            }
+            else
+            {
+                ParticleSystem particleOBJ = Instantiate(hitParticle);
                 particleOBJ.transform.position = hit.point;
                 Destroy(particleOBJ, 2);
             }

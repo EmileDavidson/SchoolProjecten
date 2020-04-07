@@ -6,16 +6,6 @@ public class Pistol : Weapon
 {
     public GameObject bullet;
 
-    public override void triggerDown()
-    {
-        shoot();
-    }
-
-    public override void triggerHold()
-    {
-        shoot();
-    }
-
     public override void shoot()
     {
         if (canShoot == false) { return; }
